@@ -1,3 +1,6 @@
 # Text-Classification-Sentiment-Analysis-using-Amazon-Kindle-Dataset
 
-Notebook produced using databricks, dependencies incluse libraries SynapseML, NLTK, wordcloud and Vader
+Notebook produced using databricks, dependencies incluse libraries SynapseML, NLTK, wordcloud and Vader.
+
+Data loaded into Databricks File System.
+
